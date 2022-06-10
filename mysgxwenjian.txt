@@ -1,9 +1,5 @@
 {
-# spider
-# 00.官方jar
-//"spider":"https://github.com/1122jiaojiao/jiaojiao/raw/main/custom_spider.jar",
-# 01.🐼 (非官方) 缝合jar
-//"spider":"https://github.com/1122jiaojiao/jiaojiao/raw/main/0608.jar",
+"spider":"https://github.com/1122jiaojiao/jiaojiao/raw/main/0608.jar",
 
 "sites":[
 // ⇩⇩ jar包内东东 ⇩⇩
