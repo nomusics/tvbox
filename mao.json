@@ -70,7 +70,7 @@
 {"key":"csp_biubiu_kukeyy","name":"🥒酷客影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/src/branch/main/xb/kukeyingyuan696.json"},
 {"key":"csp_biubiu_panghuyy","name":"🥒胖虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/src/branch/main/xb/panghuyingyuan.json"},
 {"key":"csp_biubiu_vidhub","name":"🥒vidhub(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/src/branch/main/xb/vidhub.json"},
-
+{"key":"csp_biubiu_grqq","name":"🥒秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/src/branch/main/xb/vidhub.json"},
 
 {"key":"csp_biubiu_voflix","name":"🥒voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/voflix.json"},
 {"key":"csp_biubiu_hdmoli","name":"🥒hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/hdmoli.json"},
