@@ -81,7 +81,11 @@
 {"key":"csp_biubiu_yekong","name":"🥒夜空蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/yekong.json"},
 {"key":"csp_biubiu_iibb","name":"🥒iibb电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/iibb.json"},
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/meijuchong.json"},
-
+{"key":"csp_xbb_韩剧佬","name":"🍀韩剧佬","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/hanjulao.json"},  
+{"key":"csp_xbb_韩剧在线","name":"🍀韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/hanjuzaixian.json"},
+{"key":"csp_xbb_全能影视","name":"🍀全能影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/quannengyingshi.json"},
+{"key":"csp_xbb_锐行加速","name":"🍀锐行加速","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/ruixingjiasu.json"},
+{"key":"csp_xbb_我爱跟剧","name":"🍀我爱跟剧","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/woaigengju.json"},
 
 
 {"key":"csp_biubiu_voflix","name":"🥒voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/voflix.json"},
