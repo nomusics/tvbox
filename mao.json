@@ -73,6 +73,12 @@
 {"key":"csp_biubiu_grqq","name":"🥒秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/qiuqianyingshi.json"},
 {"key":"csp_biubiu_tvbox","name":"🥒tv9box(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/tv9box.json"},
 {"key":"csp_biubiu_chinady","name":"🥒中国电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/chinady.json"},
+{"key":"csp_biubiu_300yingshi","name":"🥒300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/300yingshi.json"},
+{"key":"csp_biubiu_abuyingshi","name":"🥒AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/abuyingshi.json"},
+{"key":"csp_biubiu_aikanyingshi","name":"🥒爱看影视6(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/aikan6.json"},
+{"key":"csp_biubiu_aikanmeiju","name":"🥒爱看美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/aikanmeiju.json"},
+{"key":"csp_biubiu_heihutv","name":"🥒黑狐TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/heihutv.json"},
+{"key":"csp_biubiu_yekong","name":"🥒夜空蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/yekong.json"},
 
 
 {"key":"csp_biubiu_voflix","name":"🥒voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/voflix.json"},
