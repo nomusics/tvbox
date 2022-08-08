@@ -1,12 +1,13 @@
 {
-  "spider":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/0731.jar",
+  "spider":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/top95.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTA4NjU1Ny50eHQ="]}]}],
 
   "sites":[
     {"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Ikan","name": "🥇爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},  
     {"key":"csp_Kuaikan","name":"🥇快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Wmkk","name":"🥇完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
+    {"key":"csp_Wmkk","name":"🥇完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
+    {"key": "Lezhu_spider","name": "🐞乐猪影视","api": "csp_Lezhu",	"type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
     {"key": "KanSJ_spider","name": "🐞看视界","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
     {"key":"Smdyy_spider","name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1}, 
