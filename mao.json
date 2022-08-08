@@ -86,7 +86,7 @@
 {"key":"csp_xbb_全能影视","name":"🍀全能影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/quannengyingshi.json"},
 {"key":"csp_xbb_锐行加速","name":"🍀锐行加速","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/ruixingjiasu.json"},
 {"key":"csp_xbb_我爱跟剧","name":"🍀我爱跟剧","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/woaigengju.json"},
-
+{"key":"csp_xbb_tingshu","name":"🍀听书网","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/tingshu.json"},
 
 {"key":"csp_biubiu_voflix","name":"🥒voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/voflix.json"},
 {"key":"csp_biubiu_hdmoli","name":"🥒hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/hdmoli.json"},
