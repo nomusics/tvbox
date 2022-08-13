@@ -228,7 +228,7 @@
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/zaixianzhijia.json"},
 {"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/auete.json"},
 {"key":"csp_xpath_juziTV","name":"桔子TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/juzitv.json"},
-
+{"key": "csp_xpath_miao","name": "🐹喵喵(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/TheXP/miaomiao.json"},
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/hancheng.json"},
 {"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/Libvio.json"},
