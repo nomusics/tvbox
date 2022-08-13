@@ -49,6 +49,76 @@
 {"key": "MV","name": "🌈MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/MV.json"},
 {"key": "EXCEL","name": "🌈Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/Excel.json"},
 {"key": "xuetang","name": "🌈学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/xuetang.json"},
+ {
+      "key": "学堂1",
+      "name": "儿童乐园",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E5%AD%A6%E5%89%8D%E5%84%BF%E7%AB%A5.txt"
+    },
+    {
+      "key": "学堂2",
+      "name": "小学学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E5%B0%8F%E5%AD%A6%E5%AD%A6%E5%A0%82.txt"
+    },
+    {
+      "key": "学堂3",
+      "name": "初中学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E5%88%9D%E4%B8%AD%E5%AD%A6%E5%A0%82.txt"
+    },
+    {
+      "key": "学堂4",
+      "name": "高中学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E9%AB%98%E4%B8%AD%E5%AD%A6%E5%A0%82.txt"
+    },
+{
+      "key": "棋牌",
+      "name": "🌝棋牌老头乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E6%88%91%E7%88%B1%E6%A3%8B.txt"
+    },
+{
+      "key": "EXCEL",
+      "name": "表格学习🤔",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E8%A1%A8%E6%A0%BC.txt"
+    },
+    {
+      "key": "球类",
+      "name": "体育扛把子球类🙄",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/fengye/3/raw/branch/main/MB/%E6%88%91%E7%88%B1%E7%90%83.txt"
+    },
 
 
 // {"key":"csp_Buka" ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
