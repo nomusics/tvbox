@@ -116,6 +116,13 @@
 {"key":"csp_xbb_jiumeng","name":"🍀旧梦影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/jiumeng.json"},
 {"key":"csp_xbb_milai","name":"🍀米来影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/milai.json"},
 
+{"key":"csp_xbb_80SCL","name":"🍀80S磁力","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/80S.json"},
+{"key":"csp_xbb_2345","name":"🍀2345影视大全","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/2345.json"},
+{"key":"csp_xbb_dianyinggangCL","name":"🍀电影港磁力","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/dianyinggangCL.json"},
+{"key":"csp_xbb_juhuangTV","name":"🍀剧荒TV","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/juhuangTV.json"},
+{"key":"csp_xbb_landouTV","name":"🍀蓝豆TV","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/landou.json"},
+{"key":"csp_xbb_tootw","name":"🍀托乌影视tootw","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/tuowu.json"},
+
 {"key":"csp_xbb_影视之光","name":"🍀影视之光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/yingshizhiguang.json"},
 {"key":"csp_xbb_酷云影院","name":"🍀酷云影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/kuyun.json"},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/chabeihu.json"},
@@ -234,6 +241,10 @@
 {"key":"csp_美剧虫", "name":"美剧虫(XPF)", "type":3, "api":"csp_XPathMacFilter", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/meijuchong.json"},
 {"key":"csp_xpath_蚂蚁影视","name":"蚂蚁影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/mayi.json"},
 {"key":"csp_555dy","name":"555dy影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/555dy1.json"},
+
+{"key":"csp_xpath_80SCL","name":"80S磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/80SCL.json"},
+{"key":"csp_xpath_dianyinggangCL","name":"电影港磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/dianyinggangCL.json"},
+{"key":"csp_xpath_haokongbuCL","name":"好恐怖磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/haokongbuCL.json"},
 
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/hancheng.json"},
