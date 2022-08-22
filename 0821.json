@@ -242,7 +242,7 @@
 {"key":"csp_xpath_蚂蚁影视","name":"蚂蚁影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/mayi.json"},
 {"key":"csp_555dy","name":"555dy影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/555dy1.json"},
 
-{"key":"csp_xpath_80SCL","name":"80S磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/80SCL.json"},
+{"key":"csp_xpath_80SCL","name":"80S磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/80SCL.json"},
 {"key":"csp_xpath_dianyinggangCL","name":"电影港磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/dianyinggangCL.json"},
 {"key":"csp_xpath_haokongbuCL","name":"好恐怖磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/haokongbuCL.json"},
 
