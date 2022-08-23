@@ -1,7 +1,7 @@
 {
  "spider": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0822.jar;md5;29a17b286ea1ca8596e261768b0739f3",
 
- "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
+ "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vamlhb2ppYW8vamlhb2ppYW8vcmF3L2JyYW5jaC9tYWluL3piL2xpdmUudHh0"]}]}],
 
 "sites":[
 
