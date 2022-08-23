@@ -1,4 +1,8 @@
-//无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
+//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，只是为小白提供一个方便，接口缝合自巧技大佬/唐三大佬/俊于大佬/以及各位隐姓埋名的大佬,大哥随便扒，高抬贵嘴，记得改链接~
+/**----以下为大佬们的相关信息---**/
+//巧老板:微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
+//唐长老：https://t.me/ChuiShuiGe
+//俊哥：未知
 {
 	"spider": "http://刚刚.live/jar/",
 	"wallpaper": "http://刚刚.live/图",
@@ -13,14 +17,6 @@
 	    
 	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
 	    {
-			"key": "csp_77",
-			"name": "💓酷云七七（推荐）",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
 			"key": "360_spider",
 			"name": "🎞️️360影视（官）",
 			"api": "csp_SP360",
@@ -54,6 +50,25 @@
 			"searchable": 1,
 			"quickSearch": 1
 		}, 
+		{
+			"key": "Lezhu_spider",
+			"name": "🐷乐猪影视",
+			"api": "csp_Lezhu",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": ""
+		},
+		{
+			"key": "csp_77",
+			"name": "💓酷云七七",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, 
         {
 			"key": "小苹果",
 			"name": "🍎小苹果",
@@ -62,15 +77,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-        {
-			"key": "Ekan_spider",
-			"name": "🙈Ekan",
-			"api": "csp_Ekan",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
 		},
 		{
 			"key": "Kuaikan",
@@ -90,17 +96,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "Lezhu_spider",
-			"name": "🐷乐猪影视",
-			"api": "csp_Lezhu",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
-		},
-		{"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-		{
 			"key": "Gitcafe",
 			"name": "🗞️小纸条（云盘高清）",
 			"type": 3,
@@ -108,8 +103,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": ""
-		}, {
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+		}, 
+		{
 			"key": "csp_DiDuan",
 			"name": "⤵️低端影视",
 			"type": 3,
@@ -217,6 +213,17 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+	
+		{
+			"key": "csp_Jianying",
+			"name": "🍁简影",
+			"type": 3,
+			"api": "csp_JianYing",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
+		},
 		{
 			"key": "csp_QQ",
 			"name": "🐧腾讯（官）",
@@ -292,7 +299,7 @@
 			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
 		},
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"293视频","name":"🎟293视频(停用，暴力缝大佬的包实在是不好意思)","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{
 			"key": "csp_AppYsV2",
@@ -665,7 +672,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, {
 			"key": "zhaozy",
 			"name": "🗂️找资源(仅搜索)",
@@ -674,7 +681,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, {
 			"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
@@ -683,7 +690,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, {
 			"key": "更多",
 			"name": "📢失效反馈Q群：493192284",
