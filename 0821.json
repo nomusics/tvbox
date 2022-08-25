@@ -1,5 +1,5 @@
 {
- "spider": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0822.jar;md5;29a17b286ea1ca8596e261768b0739f3",
+ "spider": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0823.jar;md5;edcd34e75ae5e092c367077fc0a360c3",
 
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vamlhb2ppYW8vamlhb2ppYW8vcmF3L2JyYW5jaC9tYWluL3piL2xpdmUudHh0"]}]}],
 
@@ -51,9 +51,9 @@
 {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
 {"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
-//{"key": "csp_Yj1211",	"name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"	},
-//{"key": "csp_Anime1","name": "🌸小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
-//{"key": "csp_Gitcafe","name":"阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0821yuanhuaheji.jar"},
+{"key": "csp_Yj1211",	"name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"	},
+{"key": "csp_Anime1","name": "🌸小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
+{"key": "csp_Gitcafe","name":"阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0821yuanhuaheji.jar"},
 
 //{	"key": "youku",	"name": "👑优酷（官）",	"type": 0,"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable": 0,	"quickSearch": 0,	"filterable": 0,"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]},
 //{"key": "PpTV",	"name": "📺PPTV（官）",	"type": 0,	"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/",	"searchable": 0,	"quickSearch": 0,"filterable": 0,	"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]},
