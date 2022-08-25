@@ -121,6 +121,9 @@
 {"key":"csp_xbb_sougou","name":"🍀搜狗影院","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/sougou.json"},
 {"key":"csp_xbb_jiumeng","name":"🍀旧梦影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/jiumeng.json"},
 {"key":"csp_xbb_milai","name":"🍀米来影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/milai.json"},
+{"key": "csp_biubiu_迷你库", "name": "迷你库","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/miniku.json"},
+{"key": "csp_biubiu_速搜影视", "name": "速搜影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/susouTV.json"},
+{"key": "csp_biubiu_看片网","name": "看片网","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/kanpianwang.json"},
 
 {"key":"csp_xbb_80SCL","name":"🍀80S磁力","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/80S.json"},
 {"key":"csp_xbb_2345","name":"🍀2345影视大全","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/2345.json"},
