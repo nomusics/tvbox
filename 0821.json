@@ -47,6 +47,7 @@
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "3a49cf29cf20410997247c6eb4509be9"},
+{"key":"csp_xpath_cls","name": "🍭磁力搜索(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/CILIsousuo.json"}, 
 
 {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar"},
@@ -250,6 +251,11 @@
 {"key":"csp_美剧虫", "name":"美剧虫(XPF)", "type":3, "api":"csp_XPathMacFilter", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/meijuchong.json"},
 {"key":"csp_xpath_蚂蚁影视","name":"蚂蚁影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/mayi.json"},
 {"key":"csp_555dy","name":"555dy影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/555dy1.json"},
+{"key":"csp_xpath_yinfans","name":"🎬 音范丝(磁力链)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/yinfansi.json"},
+{"key":"csp_xpath_ktkkt","name":"📺kt动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/ktkkt.json"},
+{"key":"csp_xp_jLgyy","name":"💢蓝光影院 💎💎💎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/languangyingyuan.json"},
+{"key": "csp_xpath_9亿国语","name": "9亿国语(XPF)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/9Eguoyu.json"},
+
 
 {"key":"csp_xpath_80SCL","name":"80S磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/80SCL.json"},
 {"key":"csp_xpath_dianyinggangCL","name":"电影港磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/dianyinggangCL.json"},
