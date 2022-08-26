@@ -90,7 +90,7 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/huya.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/douyu.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/kuqi.json"},
-{"key": "csp_Bili" ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/heji0826.jar"},
+{"key": "csp_Bili" ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/bilibili.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/heji0826.jar"},
 {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/BIDIcili.json"},
 {"key":"csp_xpath_qiumi","name":"🏀JRKAN直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/qiumi.json"},
 {"key":"csp_xpath_88kanqiu","name":"⚽球赛直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/88kanqiu.json"},
