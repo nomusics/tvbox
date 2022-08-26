@@ -1,5 +1,5 @@
 {
- "spider": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0823.jar;md5;edcd34e75ae5e092c367077fc0a360c3",
+ "spider": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/heji0826.jar;md5;edcd34e75ae5e092c367077fc0a360c3",
 
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vamlhb2ppYW8vamlhb2ppYW8vcmF3L2JyYW5jaC9tYWluL3piL2xpdmUudHh0"]}]}],
 
