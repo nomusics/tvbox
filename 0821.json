@@ -66,9 +66,8 @@
     "api":"http://127.0.0.1:8080/vod?sites=all&ali_token=3xx9cfxxxx509bxx",
     // "api":"http://127.0.0.1:8080/vod",
     // "api":"http://127.0.0.1:8080/vod?sites=czspp,yiso",
-    // "api":"http://127.0.0.1:8080/vod?ali_token=3xx9cfxxxx509bxx",
-    "searchable":1, "quickSearch":1, "filterable":0},
-    {"key":"t4test","name":"T4测试","type":4,"api":"http://192.168.123.67:6688/vod?ali_token=a28786d30be44cfaa81c2a32828fd99b","searchable":1,"quickSearch":1,"filterable":0},
+    // "api":"http://127.0.0.1:8080/vod?ali_token=3xx9cfxxxx509bxx","searchable":1, "quickSearch":1, "filterable":0},
+    {"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-r718nr53-1313516851.cd.apigw.tencentcs.com/release/vod?ali_token=a28786d30be44cfaa81c2a32828fd99b","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key": "泥巴","name": "泥巴(墙)","type": 4,"api": "http://z.kooo.eu.org/api/t4/nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "迷你","name": "迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},
