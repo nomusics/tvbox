@@ -105,6 +105,11 @@
 {"key":"csp_XYQBiu_fenxiangduanshipin","name":"🥒分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/duanshipin.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
 {"key":"csp_XYQBiu_lyys","name":"🥒凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/lyys.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
 {"key":"csp_XYQBiu_wnys","name":"🥒万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/wnys.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+{"key":"csp_QXBiubiu_80S磁力","name":"80S磁力(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/80SCL.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/haokongbuCL.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+{"key":"csp_XYQBiu_dygCL","name":"电影港磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/dianyinggangCL.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+
+
 
 ## XB系列
 {"key":"csp_biubiu_69meiju","name":"🥒69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/69meiju.json"},
@@ -269,10 +274,6 @@
 {"key":"csp_xp_jLgyy","name":"💢蓝光影院 💎💎💎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/languangyingyuan.json"},
 {"key": "csp_xpath_9亿国语","name": "9亿国语(XPF)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/9Eguoyu.json"},
 
-
-{"key":"csp_xpath_80SCL","name":"80S磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/80SCL.json"},
-{"key":"csp_xpath_dianyinggangCL","name":"电影港磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/dianyinggangCL.json"},
-{"key":"csp_xpath_haokongbuCL","name":"好恐怖磁力(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/haokongbuCL.json"},
 
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/hancheng.json"},
