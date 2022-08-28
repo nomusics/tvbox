@@ -109,6 +109,9 @@
 {"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/haokongbuCL.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
 {"key":"csp_XYQBiu_dygCL","name":"电影港磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/dianyinggangCL.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
 {"key":"csp_XYQBiu_smdy","name":"神马电影(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/smdy.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+{"key":"csp_XYQBiu_剧荒","name":"剧荒影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/juhuang.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+{"key":"csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/555.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
+{"key":"csp_XYQBiu_影视工厂","name":"影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/yingshigongchang.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQBiu_0828.jar"},
 
 
 ## XB系列
