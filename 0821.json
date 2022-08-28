@@ -147,6 +147,8 @@
 {"key": "csp_biubiu_看片网","name": "看片网","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/kanpianwang.json"},
 {"key": "csp_biubiu_qianxun","name": "千寻时光","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/qianxun.json"},
 {"key": "csp_biubiu_maidouTV","name": "麦豆TV","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/maidouTV.json"},
+{"key": "csp_biubiu_waipian", "name": "歪片星球","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/waipian.json"},
+{"key": "csp_biubiu_600dvd", "name": "600影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/600dvd.json"},
 {"key":"csp_xbb_80SCL","name":"🍀80S磁力","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/80S.json"},
 {"key":"csp_xbb_2345","name":"🍀2345影视大全","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/2345.json"},
 {"key":"csp_xbb_dianyinggangCL","name":"🍀电影港磁力","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/dianyinggangCL.json"},
