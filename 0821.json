@@ -4,7 +4,7 @@
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vamlhb2ppYW8vamlhb2ppYW8vcmF3L2JyYW5jaC9tYWluL3piL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0707.jar"},
+{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/07.jar"},
 //{"key":"csp_77","name":"👒假酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/custom_spider.jar"},
 {"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
