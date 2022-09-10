@@ -58,9 +58,9 @@
 {"key": "T4","name": "T4爬虫阿里搜索用","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a28786d30be44cfaa81c2a32828fd99b&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_cls","name": "🍭磁力搜索(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/CILIsousuo.json"}, 
 
-{"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar;d400e3423a144ff54398019f9739b0bf"}, 
-{"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar;d400e3423a144ff54398019f9739b0bf"}, 
-{"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/gg.jar;d400e3423a144ff54398019f9739b0bf"}, 
+{"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"}, 
+{"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"},  
+{"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"}, 
 
 {"key":"T4公共","name":"🍵T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {	"key": "youku",	"name": "👑优酷（官）",	"type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable": 0,	"quickSearch": 0,	"filterable": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片"]},
