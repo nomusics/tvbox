@@ -1,7 +1,7 @@
 {
     "title": "云雀视频",
     "author": "灰太狼",
-    "UserAgent":"",
+    "UserAgent":"(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
     "firstpage": "1",
     "class_url": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
    // "class_url": "https://v.yunque.vip/vodshow/{cateId}-{area}-{by}-{catelog}-{lang}----{catePg}---{year}.html",
@@ -483,7 +483,7 @@
     "cat_url": "href=\"&&\"",
     "cat_prefix": "https://v.yunque.vip",
     "cat_suffix": "",
-    "search_url": "https://v.yunque.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://v.yunque.vip/index.php/vod/search/wd/{wd}.html",
     "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",
@@ -525,5 +525,5 @@
     "epi_title": "<span>&&<",
     "epi_url": "href=\"&&\"",
     "epiurl_prefix": "https://v.yunque.vip",
-    "epiurl_suffix": ""    
+    "epiurl_suffix": "#slide{1}"    
 }
