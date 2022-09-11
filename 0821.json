@@ -39,7 +39,7 @@
 
 {"key": "Bdys01","name": "📯 哔嘀影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"}, 
 {"key": "Bdys02","name": "📯哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"}, 
-{"key": "NianYing","name": "🎉Lem专属 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"}, 
+{"key": "NianYing","name": "🎉 NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0909.jar;md5;f7e8f5c2ca634d5f5ccfce1d75b54150"}, 
 
 
 
@@ -139,6 +139,8 @@
 {"key":"csp_XYQBiu_yqsp","name":" 🌌云雀视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/yunque.json"},
 {"key": "csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/damixingqiu.json"},
 {"key": "csp_XYQBiu_小猫咪","name":"小猫咪(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/xiaomaomi.json"},
+{"key": "csp_XYQBiu_mozhatu","name":"莫扎兔(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/mozhatu.json"},
+
 ## XB系列
 {"key":"csp_biubiu_69meiju","name":"🥒69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/69meiju.json"},
 {"key":"csp_biubiu_juzitv","name":"🥒桔子tv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/juzitv.json"},
