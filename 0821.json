@@ -464,7 +464,7 @@
     {"name": "GGTV快速","type": 1,"url": "https://play.fuqizhishi.com/gang0818/API.php?appkey=QQ172598364&url="},
     {"name": "m3u8tv高清","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="}, 
     {"name": "parwix稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
-
+    {"name": "xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
     {"name":"无名1","type":0,"url":"https://www.daga.cc/vip1/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {"name":"无名2","type":0,"url":"https://www.ckmov.com/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {"name":"OK解析","type":0,"url":"http://okjx.cc/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
