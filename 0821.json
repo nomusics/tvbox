@@ -94,13 +94,13 @@
 {"key": "dr_奇珍异兽","name": "奇珍异兽（dr_py）","type": 1,"api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?rule=奇珍异兽","searchable":1,"quickSearch":1,"filterable":1},
  
 
-
-
-
 {"key": "9E03","name":"9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_AppYsV2","name":"🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "假多多资源","name": "🔪假多多资源(切)","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "七度鱼","name": "🐟七度鱼","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小城","name": "👨‍❤️‍💋‍👨小城影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://bc.yybox.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_萌蛋蛋","name":" 萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
+{"key": "多多","name": "🍗多多资源","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 1,"categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
 {"key":"mtv_zh_刺猬影视","name":"🦔刺猬影视","type":3,"api":"csp_AppYsV2" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "csp_BBB" ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/bilibili.json"},
