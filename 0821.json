@@ -128,6 +128,7 @@
 ## XYQ系列
 {"key":"csp_XYQBiu_fenxiangduanshipin","name":"🥒分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/duanshipin.json"},
 {"key":"csp_XYQBiu_lyys","name":"🥒凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/lyys.json"},
+{"key":"csp_XYQBiu_凌云视频韩国","name":"🤍凌云视频韩国(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/linyunhanguo.json"},
 {"key":"csp_XYQBiu_wnys","name":"🥒万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/wnys.json"},
 {"key":"csp_QXBiubiu_80S磁力","name":"80S磁力(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/80SCL.json"},
 {"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/haokongbuCL.json"},
@@ -150,15 +151,9 @@
 {"key":"csp_xyqb_310直播","name":"310直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/310zhibo.json"},
 {"key":"csp_xyqb_可乐影视","name":"可乐影视(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/keleyingshi.json"},
 {"key":"csp_xyqb_chengshidianying","name":"城市电影(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/chengshidianying.json"},
-
-
-
-
-
-
-
-
-
+{"key":"csp_XYQBiu_萌番组","name":"🤍萌番组(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/menfanzu.json"},
+{"key":"csp_XYQBiu_kugoumv","name":"🤍 酷狗MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/kugoumv.json"},
+{"key":"csp_XYQBiu_530","name":"🤍 530(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/530.json"},
 
 
 
