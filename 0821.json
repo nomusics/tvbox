@@ -161,7 +161,11 @@
 {"key":"csp_XYQBiu_kumayi","name":"🤍 酷蚂蚁影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/kumayi.json"},
 {"key":"csp_XYQBiu_pianba","name":"🤍 片吧影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/pianba.json"},
 {"key":"csp_XYQBiu_fositv","name":"🤍 fositv饭团(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/fantuan.json"},
-{"key":"csp_XYQBiu_tegou","name":"🤍 特狗影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/tegou.json"},
+
+
+{ "key" : "csp_XYQ_17kan","name" : "⚽17kan(XYQ)","type":3,"api" : "csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/XYQ/17kan.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQPlugin_0915.jar"},
+{"key":"csp_XYQ_tegou","name":"🤍 特狗影视(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/tegou.json","jar":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/XYQPlugin_0915.jar"},
+
 
 ## XB系列
 {"key":"csp_biubiu_69meiju","name":"🥒69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/69meiju.json"},
