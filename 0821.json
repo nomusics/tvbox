@@ -156,9 +156,12 @@
 {"key":"csp_xyqb_chengshidianying","name":"城市电影(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/chengshidianying.json"},
 {"key":"csp_XYQBiu_萌番组","name":"🤍萌番组(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/menfanzu.json"},
 {"key":"csp_XYQBiu_kugoumv","name":"🤍 酷狗MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/kugoumv.json"},
+{"key":"csp_XYQBiu_kuqimv","name":"🤍 酷奇MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/kuqiMV.json"},
 {"key":"csp_XYQBiu_530","name":"🤍 530(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/530.json"},
 {"key":"csp_XYQBiu_kumayi","name":"🤍 酷蚂蚁影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/kumayi.json"},
 {"key":"csp_XYQBiu_pianba","name":"🤍 片吧影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/pianba.json"},
+{"key":"csp_XYQBiu_fositv","name":"🤍 fositv饭团(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/fantuan.json"},
+
 
 ## XB系列
 {"key":"csp_biubiu_69meiju","name":"🥒69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/69meiju.json"},
